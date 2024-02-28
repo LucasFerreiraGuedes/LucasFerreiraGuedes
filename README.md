@@ -4,7 +4,9 @@
 Sou Desenvolvedor FullStack 👨‍💻, e atualmente estou em busca de uma oportunidade profissional como Desenvolvedor .Net Júnior Backend ou FullStack. Sou uma pessoa autodidata com rápido aprendizado e apaixonado pelo mundo da tecnologia.
 
 Graduando em Sistemas de Informações pela PUC - Minas
+
 Técnico em Redes de Computadores pelo Senai - Cedetem
+
 Técnico em Mecânica pelo IFMG - Campus Betim
 
 
